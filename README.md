@@ -44,10 +44,6 @@ _Documentation is under development_
 - Custom permission (view_sittings) added, allowing users with that permission to view quiz results from users
 - A marking page which lists completed quizzes, can be filtered by quiz or user, and is used to mark essay questions
 
-# Quick note for future contributors
-
-If you would like to contribute, simply begin by implementing one from the list in the `TODO.md` file.
-
 # Requirements:
 
 > The following program(s) are required to run the project
